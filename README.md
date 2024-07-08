@@ -1,2 +1,2 @@
-# Power-BI
+# Supersales dashboard
 power BI sales dashboard 
